@@ -13,6 +13,7 @@ This analysis will allow them to visualize their earthquake data that will allow
 - Javascript
 - D3
 
+
 ## Features
 **The Map**<br>
 The map is based on the coordinates of [37.09, -95.71], and each marker indicates an incident of an earthquake of the last 7 days.
@@ -24,6 +25,11 @@ The map is based on the coordinates of [37.09, -95.71], and each marker indicate
 
 **Legend**<br>
 The legend represends the depth of the earthquake and their corresponding color
+
+**Sample Image**
+![alt text](sample_image.png)
+
+HTML view available <a href="index.html">here</a>
 
 ## References
 Dataset provided by the ["United States Geological Survey All Earthquakes from the Past 7 Days"](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)<br>
